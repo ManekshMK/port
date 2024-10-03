@@ -1,0 +1,9 @@
+.topContainer {
+    background: url("../../assets/Banner\ linkedin.png ");
+    height: 100vh;
+    width: 200vb;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 5px rgba(0, 0, 0, 0.5);
+}
